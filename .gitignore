@@ -1,0 +1,10 @@
+# C compiled files
+*.o
+a.out
+
+# Java compiled files
+*.class
+
+# Temporary/backup files
+*~
+.DS_Store
